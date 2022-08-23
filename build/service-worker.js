@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Protfolio/precache-manifest.5318cf30df58026c594b24549d81ad23.js"
+  "/BBQ-Catering/precache-manifest.5318cf30df58026c594b24549d81ad23.js"
 );
 
 self.addEventListener('message', (event) => {
