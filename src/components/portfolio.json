@@ -1,50 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Project-2 My Health Journal",
+    "name": "BBQ Placeholder 1",
     "image": "https://github.com/ohall1223/project-2/blob/main/assets/LandingPage.png?raw=true",
-    "github": "https://github.com/ohall1223/project-2",
-    "deployed": "https://my-health-journal.herokuapp.com/",
-    "topics": "Mysql, Express, CSS, HTML"
+    "topics": "BBQ 1"
   },
   {
     "id": 2,
-    "name": "Project-1 uProjekt",
+    "name": "BBQ Placeholder 2",
     "image": "https://github.com/L-Buchholz/project-1/blob/main/assets/images/screenshot.png?raw=true",
-    "github": "https://github.com/L-Buchholz/project-1",
-    "deployed": "https://github.com/L-Buchholz/project-1",
-    "topics": "CSS, HTML"
+    "topics": "BBQ 2"
   },
   {
     "id": 3,
-    "name": "Code-Quiz",
+    "name": "BBQ Placeholder 3",
     "image": "https://github.com/ohall1223/Code-Quiz/blob/main/assets/Screen%20Shot%202022-02-01%20at%204.43.49%20PM.png?raw=true",
-    "github": "https://github.com/ohall1223/Code-Quiz",
-    "deployed": "https://ohall1223.github.io/Code-Quiz/",
-    "topics": "CSS, HTML"
+    "topics": "BBQ 3"
   },
   {
     "id": 4,
-    "name": "Code Refactor",
+    "name": "BBQ Placeholder 4",
     "image": "https://github.com/ohall1223/code-refactor/blob/main/assets/images/screenshot1.png?raw=true",
-    "github": "https://github.com/ohall1223/code-refactor",
-    "deployed": "https://ohall1223.github.io/code-refactor/",
-    "topics": "HTML"
+    "topics": "BBQ 4"
   },
   {
     "id": 5,
-    "name": "E-Commerce-Back-End",
+    "name": "BBQ Placeholder 5",
     "image": "https://github.com/ohall1223/E-Commerce-Back-End/blob/main/Screen%20Shot%202022-02-01%20at%204.50.49%20PM.png?raw=true",
-    "github": "https://github.com/ohall1223/E-Commerce-Back-End",
-    "deployed": "https://watch.screencastify.com/v/hCaYMdC7kqitFk9Yc8qn",
-    "topics": "Mysql, Express"
+    "topics": "BBQ 5"
   },
   {
     "id": 6,
-    "name": "Good-ReadMe-Generator",
+    "name": "BBQ Placeholder 6",
     "image": "https://github.com/ohall1223/Good-README-Generator-/blob/main/Screen%20Shot%202022-02-01%20at%204.54.15%20PM.png?raw=true",
-    "github": "https://github.com/ohall1223/Good-README-Generator-",
-    "deployed": " https://watch.screencastify.com/v/Ga5qfbN1kWzymdEjLN0v",
-    "topics": "CSS, HTML"
+    "topics": "BBQ 6"
   }
 ]

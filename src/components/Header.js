@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import { Route, Redirect, HashRouter } from "react-router-dom";
 import Navigation from '../components/Navigation';
 import About from "../components/About";
-import Portfolio from "../components/Portfolio";
+import Gallery from "../components/Gallery";
 import ContactForm from "../components/ContactForm"
-import Resume from "../components/Resume"
+import Resume from "./Menu"
 
 class Header extends Component {
     render() {
@@ -17,7 +17,7 @@ class Header extends Component {
                 <div className="content">
                     <Route exact path="/" render={() => <Redirect to="/about" />} />
                     <Route path="/about" component={About} />
-                    <Route path="/portfolio" component={Portfolio} /> 
+                    <Route path="/gallery" component={Gallery} /> 
                     <Route path="/contact" component={ContactForm} />
                     <Route path="/resume" component={Resume} />
                 </div>
